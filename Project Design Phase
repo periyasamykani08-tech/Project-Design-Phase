@@ -1,0 +1,16 @@
+# Project Design Phase
+
+This repository contains the design phase documentation, architecture diagrams, and system specifications for the project.
+
+## Overview
+The design phase focuses on establishing the core architecture, workflow, and user interface layouts before development begins.
+
+## Contents
+- **System Architecture:** High-level overview of components and data flow.
+- **UI/UX Wireframes:** Screen layouts and user journey flows.
+- **Database Schema:** Entity-relationship models and data structures (if applicable).
+
+## Getting Started
+Clone this repository to view the design documents:
+```bash
+git clone [https://github.com/periyasamykani08-tech/Project-Design-Phase.git](https://github.com/periyasamykani08-tech/Project-Design-Phase.git)
